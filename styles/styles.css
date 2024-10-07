@@ -1,11 +1,11 @@
 nav{
-    background-attachment: steelblue;
+    background-color: steelblue;
     padding: 10px;
 }
 
 nav a {
-    color: white
-    display: block
+    color: white;
+    display:block;
     padding: 20px;
 }
 
@@ -14,11 +14,11 @@ h1 {
 }
 
 img{
-    width: 150
+    width: 150px;
     height: auto;
     border: 1px solid steelblue;
     padding : 2px;
-    box-shadwo: 0 0 30px gray;
+    box-shadow: 0 0 30px gray;
 }
 
 p{
